@@ -12,4 +12,3 @@ Other information
 Contact Info
 -------------------
 You are welcome to freely edit my program and replicate it for personal/school or competition use.
-Please quote Builderdude35 and 
